@@ -1,0 +1,77 @@
+
+
+
+#banner{
+    height: 400px;
+    background-image: url(imgs/macaco_banner3.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#img{
+    background-image: url(imgs/sagui_descabelado.jpg);
+    margin-top: 50px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 270px;
+    border-radius: 50%;
+
+}
+
+#img1{
+    background-image: url(imgs/sagui_no_dedo.jpg);
+    margin-top: 50px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 270px;
+    border-radius: 50%;
+
+}
+
+#img2{
+    background-image: url(imgs/sagui_revoltado.jpg);
+    margin-top: 50px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 270px;
+    border-radius: 50%;
+
+}
+
+#img3{
+    background-image: url(imgs/macaco_gordo.jpg);
+    margin-top: 50px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 270px;
+    border-radius: 50%;
+
+}
+
+#img5{
+    background-image: url(imgs/macaco_gordo2.jpg);
+    margin-top: 50px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 270px;
+    border-radius: 50%;
+
+}
+
+#img6{
+    background-image: url(imgs/macaco_safado.jpg);
+    margin-top: 50px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 270px;
+    border-radius: 50%;
+
+}
+
